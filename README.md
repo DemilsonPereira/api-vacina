@@ -1,6 +1,6 @@
 ## API-REST
 
- * Criando uma aplicação para cadastro de vacinado e vacina.
+ * Criando uma aplicação para cadastro de paciente e vacina.
 
  * Usando Docker-compose e Postgres para salvar os dados através do Typeorm
 
