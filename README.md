@@ -22,7 +22,7 @@
 Link para Download:
 
 <div>
-  <table border:none>
+  <table border="1" cellspacing="0" rules="none">
     <tr>
       <td>
         <div>
@@ -76,7 +76,7 @@ URL: http://localhost:3333
 
 
 <div>
-  <table border:none>
+  <table border="1" cellspacing="0" rules="none">
     <tr>
       <td>
         <div>
