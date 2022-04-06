@@ -22,7 +22,7 @@
 Link para Download:
 
 <div>
-  <table width="60%" border="0" cellspacing="0" cellpadding="0">
+  <table width="60%">
     <tr>
       <td>
         <div>
