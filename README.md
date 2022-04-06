@@ -76,7 +76,7 @@ URL: http://localhost:3333
 
 
 <div>
-  <table border="1" cellspacing="0" rules="none">
+  <table border="0" cellspacing="0" rules="none">
     <tr>
       <td>
         <div>
